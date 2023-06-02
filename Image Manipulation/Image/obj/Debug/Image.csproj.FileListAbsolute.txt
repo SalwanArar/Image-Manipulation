@@ -1,0 +1,28 @@
+E:\mm\Image\Image\bin\Debug\Image.exe.config
+E:\mm\Image\Image\bin\Debug\Image.exe
+E:\mm\Image\Image\bin\Debug\Image.pdb
+E:\mm\Image\Image\obj\Debug\Image.Form1.resources
+E:\mm\Image\Image\obj\Debug\Image.Properties.Resources.resources
+E:\mm\Image\Image\obj\Debug\Image.csproj.GenerateResource.Cache
+E:\mm\Image\Image\obj\Debug\Image.exe
+E:\mm\Image\Image\obj\Debug\Image.pdb
+C:\Users\GHOST\Desktop\MM\Image2\Image\bin\Debug\Image.exe.config
+C:\Users\GHOST\Desktop\MM\Image2\Image\obj\Debug\Image.exe
+C:\Users\GHOST\Desktop\MM\Image2\Image\obj\Debug\Image.pdb
+C:\Users\Acer\Desktop\Image2\Image\bin\Debug\Image.exe.config
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.exe
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.pdb
+C:\Users\Acer\Desktop\Image2\Image\bin\Debug\Image.exe
+C:\Users\Acer\Desktop\Image2\Image\bin\Debug\Image.pdb
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.Form1.resources
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.Properties.Resources.resources
+C:\Users\Acer\Desktop\Image2\Image\obj\Debug\Image.csproj.GenerateResource.Cache
+E:\Image2\Image\bin\Debug\Image.exe.config
+E:\Image2\Image\obj\Debug\Image.exe
+E:\Image2\Image\obj\Debug\Image.pdb
+E:\Image2\Image\obj\Debug\Image.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\mml hw 2\Image2\Image\bin\Debug\Image.exe.config
+C:\Users\USER\Desktop\mml hw 2\Image2\Image\obj\Debug\Image.exe
+C:\Users\USER\Desktop\mml hw 2\Image2\Image\obj\Debug\Image.pdb
+C:\Users\USER\Desktop\mml hw 2\Image2\Image\obj\Debug\Image.csprojResolveAssemblyReference.cache
